@@ -1,6 +1,5 @@
-# SMS Counter smaple 
+# CodeMirror smaples 
 
-This is a quick demo of an SMS counter as used in CodeMirror
+Some projects using CodeMirror
 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c2c64894-9124-4e96-9a37-5d8b3c7fe5ce/deploy-status)](https://app.netlify.com/sites/adoring-ramanujan-46d671/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17e79800-2b9d-49d2-80c5-c4661ba8550e/deploy-status)](https://app.netlify.com/sites/elastic-bardeen-2b976f/deploys)
