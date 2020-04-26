@@ -1,2 +1,3 @@
-# hello-world
-I am a person
+# SMS Counter smaple 
+
+This is a quick demo of an SMS counter as used in CodeMirror
