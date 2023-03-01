@@ -1,4 +1,4 @@
-# CodeMirror smaples 
+# CodeMirror samples 
 
 Some projects using CodeMirror
 
